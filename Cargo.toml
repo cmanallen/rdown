@@ -1,0 +1,11 @@
+[package]
+name = "rdown"
+version = "0.1.0"
+authors = ["Colton Allen <cmanallen90@gmail.com>"]
+edition = "2018"
+description = "A markdown compiler."
+homepage = "https://www.github.com/cmanallen/rdown"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
